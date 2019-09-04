@@ -1,0 +1,8 @@
+<resources>
+   <string name="app_name">Student Manager</string>
+   <string-array name="spnrItems">
+      <item>Name</item>
+      <item>Roll No</item>
+      <item>Address</item>
+   </string-array>
+</resources>
